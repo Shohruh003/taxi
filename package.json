@@ -1,0 +1,19 @@
+{
+  "name": "namtoshtaxibot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "node-telegram-bot-api": "^0.64.0",
+    "pg": "^8.11.3",
+    "telebot": "^1.4.1"
+  }
+}
